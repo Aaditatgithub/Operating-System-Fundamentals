@@ -1,0 +1,50 @@
+
+Invalid Page fault...abnormal termination!
+
+SI = 0  TI =0  PI =3
+TTC = 1  TLC =0
+------------------------------------------------------------------
+
+NOT SAME                                
+
+Program terminated normally!
+
+SI = 2  TI =0  PI =0
+TTC = 13  TLC =1
+------------------------------------------------------------------
+
+Hello World                             
+
+Line limit exceeded
+Program terminated normally!
+
+SI = 2  TI =0  PI =0
+TTC = 4  TLC =1
+------------------------------------------------------------------
+
+$                                       
+$   $                                   
+$   $   $                               
+$   $                                   
+$                                       
+
+Time limit exceeded
+Program terminated normally!
+
+SI = 2  TI =0  PI =0
+TTC = 25  TLC =5
+------------------------------------------------------------------
+
+@                                       
+@   @                                   
+@   @   @                               
+@   @                                   
+@                                       
+
+Time limit exceeded
+Program terminated normally!
+
+SI = 2  TI =0  PI =0
+TTC = 25  TLC =5
+------------------------------------------------------------------
+
