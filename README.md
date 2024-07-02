@@ -1,5 +1,5 @@
 # OS Fundamentals
-### This repository has 2 prominent things, 
+**This repository has 2 prominent things,** 
     1. OS Project -> Simulation of OS that processes Assembler Macro Job Cards and outputs a file of those instructions
             -> Phase 1: Has basic register instructions
             -> Phase 2: Involves pagination and error handling
